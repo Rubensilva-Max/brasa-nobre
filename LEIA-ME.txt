@@ -1,0 +1,18 @@
+BRASA NOBRE — SITE DEMONSTRATIVO
+
+COMO USAR O VÍDEO DO GOOGLE FLOW
+1. No celular, abra este ZIP e extraia a pasta brasa-nobre.
+2. Entre na pasta assets.
+3. Coloque o vídeo gerado no Google Flow dentro dela.
+4. Renomeie o vídeo exatamente para: brasa-hero.mp4
+5. O vídeo deve estar em MP4. O site já está configurado para reproduzi-lo automaticamente, sem som e em loop.
+
+IMPORTANTE
+- Sem o vídeo, a capa usa uma fotografia de fundo como alternativa.
+- As fotos dos pratos são carregadas da internet; é necessário ter conexão.
+- O número de WhatsApp está como demonstração. Para ativar pedidos reais, abra script.js e troque WHATSAPP_NUMBER pelo número do restaurante, com código do país e DDD, somente números.
+- Nome, endereço, preços, pratos e textos são demonstrativos e devem ser ajustados para cada cliente.
+
+PUBLICAÇÃO
+Este projeto é estático: não precisa instalar dependências.
+No GitHub, envie index.html, style.css, script.js e a pasta assets para a raiz do repositório. Depois conecte o repositório ao Vercel com Root Directory ./ .
